@@ -1,0 +1,17 @@
+.menu-title-container {
+    color: white;
+}
+
+.menu-title-container > h1{
+    font-size: 60px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.menu-title-container > hr {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
