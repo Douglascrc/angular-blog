@@ -1,5 +1,4 @@
 .big-card-container {
-    border: solid white 2px;
     width: 400px;   
     height: 600px;
 
@@ -15,7 +14,7 @@
   color: gray;
 }
 
-.big-card-photo {
+.big-card-photo > img {
     width: 100%;
     min-width: inherit;
 }
